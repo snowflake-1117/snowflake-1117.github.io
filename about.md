@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 ## Author
+<img src="/images/logo-round.png" width="120px" align="left" style="padding-right:20px;"/>
 컴퓨터과학을 전공하는 3학년 학부생입니다. 소프트웨어 개발을 하면서 원하는 결과물을 만들어가는 것과, 그 과정에서 발생하는 문제를 차근차근 풀어나가기를 좋아합니다. 최근에는 안드로이드와 코틀린에 관심을 가지고 있습니다.
 <br/><br/>
 
