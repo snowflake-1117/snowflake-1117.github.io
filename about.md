@@ -1,15 +1,14 @@
 ---
-layout: post
+layout: about
 title: "About"
-author: "Chester"
+author: "Hyemin"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+## Author
+컴퓨터과학을 전공하는 3학년 학부생입니다. 소프트웨어 개발을 하면서 원하는 결과물을 만들어가는 것과, 그 과정에서 발생하는 문제를 차근차근 풀어나가기를 좋아합니다. 최근에는 안드로이드와 코틀린에 관심을 가지고 있습니다.
+<br/><br/>
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+## On this blog...
+개발을 하면서 새롭게 알게된 점이나, 개발을 하면서 느낀 것들, 혹은 참여했던 개발 관련 행사에 대해 기록합니다.
+만약 개발 관련 포스팅에 잘못된 부분이 있거나 더 나은 방법이 있다면 말씀해주세요. 피드백은 언제나 환영입니다.
