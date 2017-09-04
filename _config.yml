@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Hyemin's blog
 paginate:       5
 baseurl:        ""
-url:            "https://snowflake-1117.github.io/"
+url:            "https://snowflake-1117.github.io"
 
 # Assets
 sass:
