@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Hyemin's blog
+title:          SNOWFLAKE
 paginate:       5
 baseurl:        ""
 url:            "https://snowflake-1117.github.io"
