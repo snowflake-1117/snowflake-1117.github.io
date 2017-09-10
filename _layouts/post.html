@@ -24,10 +24,10 @@ layout: default
 
 <div class="pagination">
   {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.url }}" title="{{ page.next.url }}" class="left arrow"><img src="/images/left-arrow.png" /></a>
+    <a href="{{ page.next.url | prepend: site.url }}" class="left arrow"><img src="/images/left-arrow.png" /></a>
   {% endif %}
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.url }}" title="{{ page.previous.url }}" class="right arrow"><img src="/images/right-arrow.png" /></a>
+    <a href="{{ page.previous.url | prepend: site.url }}" class="right arrow"><img src="/images/right-arrow.png" /></a>
   {% endif %}
 
   <a href="#" class="top">Top</a>
