@@ -22,7 +22,7 @@ MPAndroidChart에서 제공하는 차트는 line chart, bar chart, combined-char
 
 다만 차트의 데이터를 동적으로 할당할 경우엔 난이도가 좀 있는 편으로 여겨진다. 필자와 같이 안드로이드로 처음 프로젝트를 진행해보는 사람이라면 꽤 애를 먹을지도 모른다. 물론 [위키](https://github.com/PhilJay/MPAndroidChart/wiki)가 잘 되어 있으므로, 안드로이드 개발에 친숙한 사람이라면 큰 어려움 없이 개발할 수 있겠지만 말이다.
 
-이해를 돕기 위해 설명을 첨부한다. 개발 시 라이브러리의 버전은 3.0, 차트는 line chart 를 사용했다. 필자가 만든 것은 Week/Month/Custom 의 기간에 따라 데이터를 그래프로 출력하는 통계 페이지였다.
+이해를 돕기 위해 설명을 첨부한다. 개발 시 **라이브러리의 버전은 3.0**, 차트는 **line chart** 를 사용했다. 필자가 만든 것은 Week/Month/Custom 의 기간에 따라 데이터를 그래프로 출력하는 통계 페이지였다.
 
 ![통계 예제](/images/2017-09-17-유용한-안드로이드-오픈소스-라이브러리:-MPAndroidChart/statistics.png)
 
