@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TDD(Test-Driven Development) (1)
+title: TDD(Test-Driven Development)
 author: Hyemin
 ---
 
