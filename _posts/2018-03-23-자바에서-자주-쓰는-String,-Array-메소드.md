@@ -46,6 +46,11 @@ str.charAt(0);// 'a'
 str.indexAt('a');// 0
 {% endhighlight %}
 
+### Reverse String
+{% highlight java linenos %}
+String reverseString = new Stringbuilder(hello).reverse().toString();//olleh
+{% endhighlight %}
+
 ### Sort
 {% highlight java linenos %}
 int[] array = {2, 3, 1, 4};
